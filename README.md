@@ -1,6 +1,6 @@
 # Microlensing Field Diffraction Integration Code
 
-This repository contains code for calculating the diffraction integration of microlensing fields. The implementation utilizes the component decomposition algorithm \cite{shan1} and the adaptive hierarchical algorithm.
+This repository contains code for calculating the diffraction integration of microlensing fields. The implementation utilizes the component decomposition algorithm and the adaptive hierarchical algorithm.
 
 ## Files and Descriptions
 
@@ -17,12 +17,19 @@ To run a simple example, execute the following commands:
 bash Example.sh
 ./Example
 
-## References
+## Citation
+If you find our work useful in your research, please cite our paper:
 
-\begin{thebibliography}{9}
-
-\bibitem{shan1} Shan, X., et al. (2023). Wave effect of gravitational waves intersected with a microlens field: A new algorithm and supplementary study. Sci.China Phys.Mech.Astron., 66 (2023). https://doi.org/10.1007/s11433-022-1985-3
-\bibitem{shan2} Shan, X., et al. (2024). Wave effect of gravitational waves intersected with a microlens field
-II: An adaptive hierarchical tree algorithm and population study. Sci.China Phys.Mech.Astron., 66 (2023). https://doi.org/10.1007/s11433-022-1985-3
-
-\end{thebibliography}
+@article{Shan:2022xfx,
+    author = "Shan, Xikai and Li, Guoliang and Chen, Xuechun and Zheng, Wenwen and Zhao, Wen",
+    title = "{Wave effect of gravitational waves intersected with a microlens field: A new algorithm and supplementary study}",
+    eprint = "2208.13566",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    doi = "10.1007/s11433-022-1985-3",
+    journal = "Sci. China Phys. Mech. Astron.",
+    volume = "66",
+    number = "3",
+    pages = "239511",
+    year = "2023"
+}
