@@ -17,7 +17,7 @@ This repository contains code for calculating the diffraction integration of mic
 
 To run a simple example, execute the following commands:
 
-```sh
+sh
 bash Example.sh
 ./Example
 
