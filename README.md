@@ -16,3 +16,13 @@ To run a simple example, execute the following commands:
 ```sh
 bash Example.sh
 ./Example
+
+## References
+
+\begin{thebibliography}{9}
+
+\bibitem{shan1} Shan, X., et al. (2023). Wave effect of gravitational waves intersected with a microlens field: A new algorithm and supplementary study. Sci.China Phys.Mech.Astron., 66 (2023). https://doi.org/10.1007/s11433-022-1985-3
+\bibitem{shan2} Shan, X., et al. (2024). Wave effect of gravitational waves intersected with a microlens field
+II: An adaptive hierarchical tree algorithm and population study. Sci.China Phys.Mech.Astron., 66 (2023). https://doi.org/10.1007/s11433-022-1985-3
+
+\end{thebibliography}
