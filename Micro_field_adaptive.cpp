@@ -10,7 +10,7 @@
 #include <vector>
 #include <thread>
 #include <numeric>
-#include "../spline.h"
+#include "./spline.h"
 #include <random>
 #include <string>
 #include"./GetPsi_micro_field.h" //包含头文件
