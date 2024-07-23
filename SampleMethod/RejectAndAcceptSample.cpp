@@ -12,7 +12,7 @@
 #include <string>
 #include <random>
 #include <numeric>
-#include "../../spline.h"
+#include "../spline.h"
 
 
 using std::sin;
