@@ -11,7 +11,7 @@
 #include <thread>
 #include <string>
 #include <random>
-#include "../../spline.h"
+#include "../spline.h"
 
 using std::sin;
 using std::cos;
