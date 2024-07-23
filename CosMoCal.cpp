@@ -9,7 +9,7 @@
 #include <ctime>
 #include <vector>
 #include <thread>
-#include "../spline.h"
+#include "./spline.h"
 #include <random>
 #include <string>
 
