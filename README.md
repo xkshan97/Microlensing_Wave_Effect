@@ -40,16 +40,13 @@ If you find our work useful in your research, please cite our paper:
     year = "2023"
 }
 
-@article{Shan:2024abc,
-    author = "Shan, Xikai and Li, Guoliang and Chen, Xuechun, Zhao, Wen, Hu, Bin and Mao Shude",
-    title = "{Wave effect of gravitational waves intersected with a microlens field II: An adaptive hierarchical tree algorithm and population study}",
-    eprint = "",
-    archivePrefix = "arXiv",
-    primaryClass = "astro-ph.CO",
-    doi = "",
-    journal = "Sci. China Phys. Mech. Astron.",
-    volume = "",
-    number = "",
-    pages = "",
-    year = ""
+
+@misc{shan2024waveeffectgravitationalwaves,
+      title={Wave effect of gravitational waves intersected with a microlens field II: an adaptive hierarchical tree algorithm and population study}, 
+      author={Xikai Shan and Guoliang Li and Xuechun Chen and Wen Zhao and Bin Hu and Shude Mao},
+      year={2024},
+      eprint={2409.06747},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2409.06747}, 
 }
